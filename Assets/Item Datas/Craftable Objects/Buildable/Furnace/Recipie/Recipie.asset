@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f494930c806a27f4ea1ae098080dc295, type: 3}
+  m_Name: Recipie
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1496938148, guid: b2555eaf216ea2741827adf7449e4ac9, type: 3}
+  recipieName: Furnace
+  requrirements:
+  - {fileID: 11400000, guid: 5bb1e2a3b77d38b46afc09b94b7b874b, type: 2}
+  craftingTime: 2
+  outcome: {fileID: 11400000, guid: 7cffda707314c5548a860ba21cb53b19, type: 2}
+  outcomeAmount: 1

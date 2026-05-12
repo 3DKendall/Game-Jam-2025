@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f494930c806a27f4ea1ae098080dc295, type: 3}
+  m_Name: Cauldron with fire
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1307572759, guid: 4bdf6701831eb514a9e2bff6e5d4c577, type: 3}
+  recipieName: Cauldron with Fire
+  requrirements:
+  - {fileID: 11400000, guid: 8b5802f774b07c1479eab17e96ef0eb6, type: 2}
+  - {fileID: 11400000, guid: a3f6b19d856019a44b3bf9bade4387bb, type: 2}
+  - {fileID: 11400000, guid: b6f1663bada978843a9206b8513c741e, type: 2}
+  craftingTime: 1
+  outcome: {fileID: 11400000, guid: 7af180b70fa08f14080dc552412f2d83, type: 2}
+  outcomeAmount: 1

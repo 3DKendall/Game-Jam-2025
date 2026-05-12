@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9a39975ef91e64894c2d4549cf9be8, type: 3}
+  m_Name: Dandelion
+  m_EditorClassIdentifier: 
+  ID: 0
+  itemType: 1
+  icon: {fileID: 1948263529, guid: 0a1ed7a8df519f84fb5e60cd9b916800, type: 3}
+  itemName: Dandelion
+  description: Resource used in alchemy
+  isStackable: 1
+  maxStack: 18
+  damage: 20
+  range: 200
+  magSize: 30
+  bulletData: {fileID: 0}
+  fireRate: 0.1
+  zoomFOV: 60
+  horizontalRecoil: 0
+  minVerticalRecoil: 0
+  maxVerticalRecoil: 0
+  hipSpread: 0.04
+  aimSpread: 0
+  shotgunFire: 0
+  pelletsPerShot: 8
+  shootSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  takoutsound: {fileID: 0}
+  emptySound: {fileID: 0}
+  healthChange: 1
+  hungerChange: 1
+  thirstChange: 1
+  ghost: {fileID: 0}
+  isFuel: 0
+  outcome: {fileID: 11400000, guid: fea2ca7176ccff947ae8c6c7e33900b8, type: 2}
+  outcomeAmount: 1
+  processTime: 3

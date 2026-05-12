@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f494930c806a27f4ea1ae098080dc295, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  recipieName: Wall
+  requrirements:
+  - {fileID: 11400000, guid: 5fda963426c49af429efaae06b13d90d, type: 2}
+  craftingTime: 1
+  outcome: {fileID: 11400000, guid: e2205dc5d0ce90440b2145e44bb90724, type: 2}
+  outcomeAmount: 1

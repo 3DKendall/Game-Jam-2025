@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f494930c806a27f4ea1ae098080dc295, type: 3}
+  m_Name: Machete
+  m_EditorClassIdentifier: 
+  icon: {fileID: 405947566, guid: aaa9ba911632bbd478debc84b3cb4e9a, type: 3}
+  recipieName: Machete
+  requrirements:
+  - {fileID: 11400000, guid: 508ed5905eee5fa48aa5b1e0e312e90b, type: 2}
+  - {fileID: 11400000, guid: 101cc7238f3b5d742af19d4bc5564b5c, type: 2}
+  - {fileID: 11400000, guid: 62956122af54dbb4f801faf70456bef6, type: 2}
+  craftingTime: 3
+  outcome: {fileID: 11400000, guid: af3354ae450929a4e883c547db70c8fc, type: 2}
+  outcomeAmount: 1

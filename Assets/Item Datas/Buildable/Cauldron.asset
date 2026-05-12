@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9a39975ef91e64894c2d4549cf9be8, type: 3}
+  m_Name: Cauldron
+  m_EditorClassIdentifier: 
+  ID: 0
+  itemType: 4
+  icon: {fileID: 1307572759, guid: 4bdf6701831eb514a9e2bff6e5d4c577, type: 3}
+  itemName: Couldron
+  description: Cook remedies and soup
+  isStackable: 0
+  maxStack: 1
+  damage: 20
+  range: 200
+  magSize: 30
+  bulletData: {fileID: 0}
+  fireRate: 0.1
+  zoomFOV: 60
+  horizontalRecoil: 0
+  minVerticalRecoil: 0
+  maxVerticalRecoil: 0
+  hipSpread: 0.04
+  aimSpread: 0
+  shotgunFire: 0
+  pelletsPerShot: 8
+  shootSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  takoutsound: {fileID: 0}
+  emptySound: {fileID: 0}
+  healthChange: 10
+  hungerChange: 10
+  thirstChange: 10
+  ghost: {fileID: 0}
+  isFuel: 0
+  outcome: {fileID: 0}
+  outcomeAmount: 1
+  processTime: 3
